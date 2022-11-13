@@ -1,0 +1,16 @@
+[
+  {
+    "meta": "ID;Version;Released;PVN;Whatever;Test",
+    "groups": "Pre-Classic;Classic",
+    "data": {
+        "Pre-Classic": [
+            {
+                "ID": "pr-1"
+            },
+            {
+                "ID": "pr-2"
+            }
+        ]
+    }
+  }
+]
